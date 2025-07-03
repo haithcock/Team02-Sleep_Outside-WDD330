@@ -25,3 +25,4 @@ _BYU-Pathway Worldwide improves lives through access to spiritually based, onlin
 
 
 
+## Test commit after fixing Git config
